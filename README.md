@@ -1,4 +1,3 @@
-# ===== # ===== # ===== # ===== #
 # MaydayLoveBot
 
 ![20230723_012340_0000](https://github.com/JMoss-Architecture-DAO/MaydayLoveBot/assets/81659794/ba557c16-fdf5-49d2-9b76-7e63da4db51a)
@@ -8,7 +7,7 @@ It's the world's first Open source AI community love bot with the most active co
 
 Zero tolerance for hate and discrimination.
 
-# MaydayLoveBo Architecture and Scope 
+# MaydayLoveBot Architecture and Scope 
 
 # Design Methodology 
 
